@@ -33,6 +33,7 @@ hbs.registerHelper('getcurrentyear',()=>{
 
 });
 
+//use get//
 
 app.get('/',(req,res)=>{
     //res.send('<h1>Hello Express!</h1>');
